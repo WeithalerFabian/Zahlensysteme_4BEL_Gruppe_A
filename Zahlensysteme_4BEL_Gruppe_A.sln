@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlensysteme_4BEL_Gruppe_A", "Zahlensysteme_4BEL_Gruppe_A.csproj", "{10BCE96C-BF1F-4189-9392-F3A5EEBDC080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BCE96C-BF1F-4189-9392-F3A5EEBDC080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BCE96C-BF1F-4189-9392-F3A5EEBDC080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BCE96C-BF1F-4189-9392-F3A5EEBDC080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BCE96C-BF1F-4189-9392-F3A5EEBDC080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E90F5BF0-CA50-4648-BEB0-BE45410B4B59}
+	EndGlobalSection
+EndGlobal
