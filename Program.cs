@@ -6,7 +6,9 @@ namespace Zahlensysteme_4BEL_Gruppe_A
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int BinZahl = 0;
+            Console.WriteLine("Gib eine Binärzahl ein: ");
+            BinZahl = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
