@@ -10,5 +10,10 @@ namespace Zahlensysteme_4BEL_Gruppe_A
             Console.WriteLine("Gib eine Binärzahl ein: ");
             BinZahl = Convert.ToInt32(Console.ReadLine());
         }
+
+        static void Umrechnung_in_Basis_16(String str_Binaer)
+        {
+            Console.WriteLine("Hex:" + String.Format("{0:X2}", Convert.ToUInt64(str_Binaer, 2)));
+        }
     }
 }
