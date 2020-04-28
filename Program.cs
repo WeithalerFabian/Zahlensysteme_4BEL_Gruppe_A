@@ -6,9 +6,34 @@ namespace Zahlensysteme_4BEL_Gruppe_A
     {
         static void Main(string[] args)
         {
-            int BinZahl = 0;
+            int Menü = 0;
+
+            string BinZahl;
+
             Console.WriteLine("Gib eine Binärzahl ein: ");
-            BinZahl = Convert.ToInt32(Console.ReadLine());
+            BinZahl = Console.ReadLine();
+
+            Console.WriteLine("In was möchte Sie die Binärzahl umwandeln? [ 1 Dezimal | 2 Hexadezimal ]");
+            Menü = Convert.ToInt16(Console.ReadLine());
+
+            switch (Menü)
+            {
+                case 1:
+
+                    U_D(BinZahl);
+
+                    break;     
+                    
+                case 2:
+
+                    Umrechnung_in_Basis_16(BinZahl);
+
+                    break;
+
+
+            }
+
+            Console.ReadKey();
         }
 
         static void Umrechnung_in_Basis_16(String str_Binaer)
@@ -18,8 +43,8 @@ namespace Zahlensysteme_4BEL_Gruppe_A
 
         static void U_D(String str_Binaer)
         {
-            int num, binary_val, decimal_val = 0, base_val = 1, rem;            
-            num = int.Parse(str_Binaer); 
+            int num, binary_val, decimal_val = 0, base_val = 1, rem;
+            num = int.Parse(str_Binaer);
             binary_val = num;
 
             while (num > 0)
@@ -28,8 +53,8 @@ namespace Zahlensysteme_4BEL_Gruppe_A
                 decimal_val = decimal_val + rem * base_val;
                 num = num / 10;
                 base_val = base_val * 2;
-            }            
-            Console.Write("\nIts Decimal Equivalent is : " + decimal_val);            
+            }
+            Console.Write("\nIts Decimal Equivalent is : " + decimal_val);
         }
     }
 }

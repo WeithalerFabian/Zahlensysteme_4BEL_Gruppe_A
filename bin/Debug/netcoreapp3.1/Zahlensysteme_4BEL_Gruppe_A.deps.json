@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zahlensysteme_4BEL_Gruppe_A/1.0.0": {
+        "runtime": {
+          "Zahlensysteme_4BEL_Gruppe_A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zahlensysteme_4BEL_Gruppe_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

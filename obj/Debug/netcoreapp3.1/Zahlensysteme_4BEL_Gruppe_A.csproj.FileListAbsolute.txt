@@ -1,0 +1,13 @@
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\obj\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.csprojAssemblyReference.cache
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\obj\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\obj\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\obj\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.AssemblyInfo.cs
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\bin\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.exe
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\bin\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.deps.json
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\bin\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.runtimeconfig.json
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\bin\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.runtimeconfig.dev.json
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\bin\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.dll
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\bin\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.pdb
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\obj\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.dll
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\obj\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.pdb
+C:\Users\Fabian\Documents\Schule\TFO Meran\Git\Projekte\Zahlensysteme_4BEL_Gruppe_A\obj\Debug\netcoreapp3.1\Zahlensysteme_4BEL_Gruppe_A.genruntimeconfig.cache
